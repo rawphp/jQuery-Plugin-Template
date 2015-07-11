@@ -1,0 +1,27 @@
+{
+  "name": "jquery-plugin-template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rawphp/jQuery-Plugin-Template",
+  "authors": [
+    "Tom Kaczocha <tom@rawphp.org>"
+  ],
+  "description": "Example jQuery plugin template",
+  "main": "jquery-plugin-template.js",
+  "keywords": [
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },
+  "moduleType": [
+    "globals"
+  ]
+}

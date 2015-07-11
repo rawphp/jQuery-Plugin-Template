@@ -1,0 +1,25 @@
+{
+  "name": "jquery-plugin-template",
+  "version": "1.0.0",
+  "description": "Example jQuery plugin template",
+  "main": "jquery-plugin-template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawphp/jQuery-Plugin-Template.git"
+  },
+  "keywords": [
+    "plugin"
+  ],
+  "author": "Tom Kaczocha <tom@crazydev.org>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rawphp/jQuery-Plugin-Template/issues"
+  },
+  "homepage": "https://github.com/rawphp/jQuery-Plugin-Template",
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
